@@ -1,2 +1,1 @@
-These deep learning models were implemeted on Truthseeker Dataset 2023 from Canadian Institute of Cybersecurity (CIC) website.The dataset contains twitter posts that has to be classified as either fake or real,so the models are
-built for fake news detection mechanism.
+A fake news detection system was built with a transfomer architecture and Deep Learning models.This models were trained with a large social meda dataset with over 186000 tweets called CIC Truthseeker 2023 and futher fine-tuned with IOST dataset that contains multiple category news articles.
